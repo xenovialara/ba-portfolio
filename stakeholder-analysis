@@ -1,0 +1,23 @@
+Who wants it? → Business Owner / Product / Growth / Sponsor
+Who approves or funds it? → Executive Sponsor / Finance / relevant decision authority
+Who provides evidence? → Data / Analytics
+Who uses or is affected by it? → End Users
+Who designs it? → UX/UI
+Who builds it? → Engineering / Development
+Who tests it? → QA / Testing
+Who constrains or regulates it? → Legal / Compliance / Data Privacy
+Who connects and translates these needs into requirements? → Business Analyst. 
+Identified 9 stakeholder teams.
+
+R — Responsible: actually performs the work.
+A — Accountable: ultimately owns the outcome/decision. Ideally one A per activity.
+C — Consulted: provides input before/during the work; two-way communication.
+I — Informed: needs to know what happened; mostly one-way communication.
+
+In a situation where a Growth Manager puts ahead a situation like:
+Growth Manager: “I want a widget like Duolingo that urges users to track daily.”
+
+R:Developers        
+A: Growth/Product Manager
+C: UI/UX               
+I:C-suite           
