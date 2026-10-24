@@ -1,11 +1,11 @@
-# # HEALTHILY ME
+# # HEALTHIFY ME
 ## Business Requirements Document (BRD)
 
 **Document Version:** 1.0  
 **Document Status:** Working Draft — Pending Stakeholder Review  
 **Project Type:** Habit Tracking and Health Engagement MVP  
 **Prepared by:** Business Analyst  
-**Product:** Healthily Me
+**Product:** HealthiFy Me
 
 ---
 
